@@ -21,8 +21,8 @@ function Footer() {
               name="email"
               className="footer-input"
             />
+            <Button buttonStyle="btn--outline">Subscribe</Button>
           </form>
-          <Button buttonStyle="btn--outline">Subscribe</Button>
         </div>
       </section>
       <div className="footer-links">
