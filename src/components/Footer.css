@@ -109,13 +109,12 @@
 }
 .social-logo{
     color: #fff;
-    justify-self: start;
+    align-items: center;
     margin-left: 20px;
     cursor: pointer;
     font-size: 2rem;
     text-decoration: none;
     display: flex;
-    align-self: center;
     margin-bottom: 16px;
 }
 .website-rights{
